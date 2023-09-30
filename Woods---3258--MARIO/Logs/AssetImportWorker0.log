@@ -289,3 +289,56 @@ Received Import Request.
 Start importing Assets/Subgraph/Rotate.asset using Guid(192daf47edc51324eab0ef4d833ec292) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33bcd5d1e3e406a81f04e4dfd705e5cd') in 0.014176 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 1354.848155 seconds.
+  path: Assets/New Material.mat
+  artifactKey: Guid(3c5ac813d4294d8428c9b333334718c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Material.mat using Guid(3c5ac813d4294d8428c9b333334718c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12ca5997a08bd000d4f74f8bdeede305') in 0.021829 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 1577.041119 seconds.
+  path: Assets/Subgraph/Check Floor.asset
+  artifactKey: Guid(0de5d3e09333e7d44966ceb3db1b471a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Subgraph/Check Floor.asset using Guid(0de5d3e09333e7d44966ceb3db1b471a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46e883670ea3edab0d4cb00f2278c8fc') in 0.779303 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.042610 seconds.
+  path: Assets/Subgraph/Do Gravirty.asset
+  artifactKey: Guid(b2c379498fbe3c7419f0922e13c7fe0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Subgraph/Do Gravirty.asset using Guid(b2c379498fbe3c7419f0922e13c7fe0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4b99d91442772a4e85cbfef85b353a9') in 0.226113 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Subgraph/Sideways.asset
+  artifactKey: Guid(97d6529e22941b9409400fe0575843e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Subgraph/Sideways.asset using Guid(97d6529e22941b9409400fe0575843e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdebaa8ad98d5b59674d80a3f809b125') in 0.152589 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000073 seconds.
+  path: Assets/Subgraph/Enemy.asset
+  artifactKey: Guid(608969b5e6c260e44b4db82074183e7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Subgraph/Enemy.asset using Guid(608969b5e6c260e44b4db82074183e7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8390e4da9b073e5621401fc369381c48') in 0.119850 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Subgraph/Forwards.asset
+  artifactKey: Guid(70f124160bba12740970e5ce9b833b8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Subgraph/Forwards.asset using Guid(70f124160bba12740970e5ce9b833b8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04d87d9eca3a272896d91ccfaaf9faf2') in 0.009738 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: The I/O operation has been aborted because of either a thread exit or an application request.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
